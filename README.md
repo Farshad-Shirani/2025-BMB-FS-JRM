@@ -2,6 +2,8 @@
 
 # Matching Habitat Choice and the Evolution of a Species’ Range
 
+Written by Farshad Shirani (f.shirani@gatech.edu), 2025.
+
 This repository contains MATLAB codes used in the article:
 
 "Matching Habitat Choice and the Evolution of a Species’ Range"
